@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactFields</key>
+	<dict>
+		<key>Title</key>
+		<dict>
+			<key>identifier</key>
+			<string>Title</string>
+			<key>key</key>
+			<string>lastName</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Last Name (required)</string>
+			<key>sectionTitle</key>
+			<string>Last Name (required)</string>
+			<key>placeholder</key>
+			<string>Enter Last Name</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>FirstName</key>
+		<dict>
+			<key>identifier</key>
+			<string>FirstName</string>
+			<key>key</key>
+			<string>firstName</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>First Name</string>
+			<key>sectionTitle</key>
+			<string>First Name</string>
+			<key>placeholder</key>
+			<string>Enter First Name</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>FullName</key>
+		<dict>
+			<key>identifier</key>
+			<string>FullName</string>
+			<key>key</key>
+			<string>fullName</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Full Name</string>
+			<key>sectionTitle</key>
+			<string>Full Name</string>
+			<key>placeholder</key>
+			<string>Enter Full Name</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>Email</key>
+		<dict>
+			<key>identifier</key>
+			<string>Email</string>
+			<key>key</key>
+			<string>emailAddress</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Email</string>
+			<key>sectionTitle</key>
+			<string>Email</string>
+			<key>placeholder</key>
+			<string>Enter Email</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>Company</key>
+		<dict>
+			<key>identifier</key>
+			<string>Company</string>
+			<key>key</key>
+			<string>company</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Company</string>
+			<key>sectionTitle</key>
+			<string>Company</string>
+			<key>placeholder</key>
+			<string>Enter Company Name</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>JobTitle</key>
+		<dict>
+			<key>identifier</key>
+			<string>JobTitle</string>
+			<key>key</key>
+			<string>jobTitle</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Job Title</string>
+			<key>sectionTitle</key>
+			<string>Job Title</string>
+			<key>placeholder</key>
+			<string>Enter Job Title</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>WorkPhone</key>
+		<dict>
+			<key>identifier</key>
+			<string>WorkPhone</string>
+			<key>key</key>
+			<string>businesPhone</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Business Phone</string>
+			<key>sectionTitle</key>
+			<string>Business Phone</string>
+			<key>placeholder</key>
+			<string>Enter Business Phone Number</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>HomePhone</key>
+		<dict>
+			<key>identifier</key>
+			<string>HomePhone</string>
+			<key>key</key>
+			<string>homePhone</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Home Phone</string>
+			<key>sectionTitle</key>
+			<string>Home Phone</string>
+			<key>placeholder</key>
+			<string>Enter Home Phone Number</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>CellPhone</key>
+		<dict>
+			<key>identifier</key>
+			<string>CellPhone</string>
+			<key>key</key>
+			<string>mobileNumber</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Mobile Number</string>
+			<key>sectionTitle</key>
+			<string>Mobile Number</string>
+			<key>placeholder</key>
+			<string>Enter Mobile Number</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>WorkFax</key>
+		<dict>
+			<key>identifier</key>
+			<string>WorkFax</string>
+			<key>key</key>
+			<string>faxNumber</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Fax Number</string>
+			<key>sectionTitle</key>
+			<string>Fax Number</string>
+			<key>placeholder</key>
+			<string>Enter Fax Number</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>WorkAddress</key>
+		<dict>
+			<key>identifier</key>
+			<string>WorkAddress</string>
+			<key>key</key>
+			<string>address</string>
+			<key>type</key>
+			<string>textView</string>
+			<key>title</key>
+			<string>Work Address</string>
+			<key>sectionTitle</key>
+			<string>Work Address</string>
+			<key>placeholder</key>
+			<string>Enter Work Address</string>
+			<key>cellHeight</key>
+			<string>120.0</string>
+		</dict>
+		<key>WorkCity</key>
+		<dict>
+			<key>identifier</key>
+			<string>WorkCity</string>
+			<key>key</key>
+			<string>city</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>City</string>
+			<key>sectionTitle</key>
+			<string>City</string>
+			<key>placeholder</key>
+			<string>Enter City Name</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>WorkState</key>
+		<dict>
+			<key>identifier</key>
+			<string>WorkState</string>
+			<key>key</key>
+			<string>stateOrProvince</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>State/Province</string>
+			<key>sectionTitle</key>
+			<string>State/Province</string>
+			<key>placeholder</key>
+			<string>Enter State/Province</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>WorkZip</key>
+		<dict>
+			<key>identifier</key>
+			<string>WorkZip</string>
+			<key>key</key>
+			<string>zipOrPostalCode</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>ZIP/Postal Code</string>
+			<key>sectionTitle</key>
+			<string>ZIP/Postal Code</string>
+			<key>placeholder</key>
+			<string>Enter ZIP/Postal Code</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>WorkCountry</key>
+		<dict>
+			<key>identifier</key>
+			<string>WorkCountry</string>
+			<key>key</key>
+			<string>countryOrRegion</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Country/Region</string>
+			<key>sectionTitle</key>
+			<string>Country/Region</string>
+			<key>placeholder</key>
+			<string>Enter Country/Region</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>WebPage.Url</key>
+		<dict>
+			<key>identifier</key>
+			<string>WebPage.Url</string>
+			<key>key</key>
+			<string>webpageURL</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Webpage URL</string>
+			<key>sectionTitle</key>
+			<string>Webpage URL</string>
+			<key>placeholder</key>
+			<string>Enter Webpage URL</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>Webpage.Description</key>
+		<dict>
+			<key>identifier</key>
+			<string>Webpage.Description</string>
+			<key>key</key>
+			<string>webpageDescription</string>
+			<key>type</key>
+			<string>textField</string>
+			<key>title</key>
+			<string>Webpage Description</string>
+			<key>sectionTitle</key>
+			<string>Webpage Description</string>
+			<key>placeholder</key>
+			<string>Enter Webpage Description</string>
+			<key>cellHeight</key>
+			<string>44.0</string>
+		</dict>
+		<key>Comments</key>
+		<dict>
+			<key>identifier</key>
+			<string>Comments</string>
+			<key>key</key>
+			<string>notes</string>
+			<key>type</key>
+			<string>textView</string>
+			<key>title</key>
+			<string>Notes</string>
+			<key>sectionTitle</key>
+			<string>Notes</string>
+			<key>placeholder</key>
+			<string>Enter Notes</string>
+			<key>cellHeight</key>
+			<string>120.0</string>
+		</dict>
+	</dict>
+	<key>contactFieldDisplayOrder</key>
+	<array>
+		<string>Title</string>
+		<string>FirstName</string>
+		<string>FullName</string>
+		<string>Email</string>
+		<string>Company</string>
+		<string>JobTitle</string>
+		<string>WorkPhone</string>
+		<string>HomePhone</string>
+		<string>CellPhone</string>
+		<string>WorkFax</string>
+		<string>WorkAddress</string>
+		<string>WorkCity</string>
+		<string>WorkState</string>
+		<string>WorkZip</string>
+		<string>WorkCountry</string>
+		<string>WebPage.Url</string>
+		<string>Webpage.Description</string>
+		<string>Comments</string>
+	</array>
+</dict>
+</plist>
