@@ -1,5 +1,5 @@
 # office365Demo
-Demo using for MS Office 365 iOS SDK for getting contacts
+Demo for using MS Office 365 iOS SDK for getting contacts.
 
 Office 365 SDK for iOS: https://github.com/OfficeDev/Office-365-SDK-for-iOS
 
@@ -10,10 +10,9 @@ Currently the version has helper classes for performing CRUD operations on 'Cont
 More details here:
 https://ayeohyes.wordpress.com/2015/04/12/sharepoint-integration-with-ios-application-contacts/
 
-
-----------------------------------------
+//----------------------------------------
 Project Implementation Details:
-----------------------------------------
+//----------------------------------------
  In this project I have created a MSOContactHelper class that will handle the interaction with Office365 SDK for OAuth and OData fething. The formatiing of the request and parsing of the response for getting contacts from sharepoint server is also handled in this class.
 
  MSOContactInfoModel is a model created that will manage all the contact details. It has properties for each of the contact fields and corresponds to NSCopying and NSCoding protocols for copying or saving data to disk.
@@ -44,4 +43,12 @@ Project Implementation Details:
 
 This application is made available for free under Apache License version 2.0.
 Check out the LICENSE document file for the "Terms of Use". 
----
+=======
+This is a sample project to demo how to View, Create, Edit and Delete share point contacts using office365 iOS SDK from native iOS application.
+
+More details here:
+https://ayeohyes.wordpress.com/2015/04/12/sharepoint-integration-with-ios-application-contacts/
+https://ayeohyes.wordpress.com/2015/04/03/sharepoint-integration-with-ios-application/
+https://ayeohyes.wordpress.com/2015/03/25/cocoapods-how-to/
+
+Thanks!
